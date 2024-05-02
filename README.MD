@@ -1,6 +1,7 @@
 # HTML / CSS Practice
 
-HTML / CSS Practice -
+HTML / CSS Practice - A page to practice your new learned HTML and CSS skills!
+
 
 ## Run Local Host
 
