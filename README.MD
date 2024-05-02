@@ -48,3 +48,6 @@ Perform a pull request to the repo, I will check all is good and then accept.
 ## View live site
 
 Your updates will the be shown on the live site:
+
+https://html-css-practice-2024.netlify.app/
+
